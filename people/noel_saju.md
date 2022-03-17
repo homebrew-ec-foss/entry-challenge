@@ -1,6 +1,6 @@
 ---
 name: Noel Saju
-github: [Noel-Saju](https://github.com/Noel-Saju)
+github: Noel-Saju
 fav_color: #03FDFC
 ---
 
