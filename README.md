@@ -28,4 +28,4 @@ If you wish to join us, complete the following steps -
 
 3. Open a Pull Request from this branch on your fork to the main branch here
 
-4. Wait for a maintainer to merge your pull request! You'll recieve an invitation if you're successful.
+4. Wait for a maintainer to merge your pull request! You'll recieve an indication of done right. Off to challenge 2!
