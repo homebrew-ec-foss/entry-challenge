@@ -5,4 +5,4 @@ fav_color: #8000ff
 ---
 
 # Hi, I'm Anurag Rao
-Figuring stuff out... always
+If something isn't exactly how I want it to be, I make it exactly how I want it to be.
